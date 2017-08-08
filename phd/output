@@ -1,0 +1,96 @@
+============= STARTED BINARYMAP BOW - TRAINING BEFORE ===============
+START FOLD 1fev 02, 2017 3:41:50 PM com.github.fommil.jni.JniLoader liberalLoad
+INFORMAÇÕES: successfully loaded /var/folders/f1/1jb9rwr91316s3qm4_vp6x5h0000gn/T/jniloader8867786046922511839netlib-native_system-osx-x86_64.jnilib
+START FOLD 2START FOLD 3START FOLD 4START FOLD 5START FOLD 6START FOLD 7START FOLD 8START FOLD 9START FOLD 10
+weka.classifiers.bayes.NaiveBayes: 
+ 2168 correct
+ 1533 wrong
+ 0 no prediction
+weka.classifiers.functions.LibSVM: 
+ 2983 correct
+ 718 wrong
+ 0 no prediction
+weka.classifiers.functions.SMO: 
+ 2846 correct
+ 855 wrong
+ 0 no prediction
+weka.classifiers.trees.J48: 
+ 2700 correct
+ 1001 wrong
+ 0 no prediction
+weka.classifiers.trees.RandomTree: 
+ 2881 correct
+ 820 wrong
+ 0 no prediction
+
+
+============= STARTED BINARYMAP BOW - TRAINING AFTER ===============
+START FOLD 1START FOLD 2START FOLD 3START FOLD 4START FOLD 5START FOLD 6START FOLD 7START FOLD 8START FOLD 9START FOLD 10
+weka.classifiers.bayes.NaiveBayes: 
+ 4341 correct
+ 3061 wrong
+ 0 no prediction
+weka.classifiers.functions.LibSVM: 
+ 5966 correct
+ 1436 wrong
+ 0 no prediction
+weka.classifiers.functions.SMO: 
+ 5699 correct
+ 1703 wrong
+ 0 no prediction
+weka.classifiers.trees.J48: 
+ 5395 correct
+ 2007 wrong
+ 0 no prediction
+weka.classifiers.trees.RandomTree: 
+ 5756 correct
+ 1646 wrong
+ 0 no prediction
+
+
+============= STARTED TF-IDF BOW - TRAINING BEFORE ===============
+START FOLD 1START FOLD 2START FOLD 3START FOLD 4START FOLD 5START FOLD 6START FOLD 7START FOLD 8START FOLD 9START FOLD 10
+weka.classifiers.bayes.NaiveBayes: 
+ 6292 correct
+ 4811 wrong
+ 0 no prediction
+weka.classifiers.functions.LibSVM: 
+ 8185 correct
+ 2918 wrong
+ 0 no prediction
+weka.classifiers.functions.SMO: 
+ 8714 correct
+ 2389 wrong
+ 0 no prediction
+weka.classifiers.trees.J48: 
+ 8081 correct
+ 3022 wrong
+ 0 no prediction
+weka.classifiers.trees.RandomTree: 
+ 8678 correct
+ 2425 wrong
+ 0 no prediction
+
+
+============= STARTED TF-IDF BOW - TRAINING AFTER ===============
+START FOLD 1START FOLD 2START FOLD 3START FOLD 4START FOLD 5START FOLD 6START FOLD 7START FOLD 8START FOLD 9START FOLD 10
+weka.classifiers.bayes.NaiveBayes: 
+ 8237 correct
+ 6567 wrong
+ 0 no prediction
+weka.classifiers.functions.LibSVM: 
+ 10404 correct
+ 4400 wrong
+ 0 no prediction
+weka.classifiers.functions.SMO: 
+ 11729 correct
+ 3075 wrong
+ 0 no prediction
+weka.classifiers.trees.J48: 
+ 10769 correct
+ 4035 wrong
+ 0 no prediction
+weka.classifiers.trees.RandomTree: 
+ 11581 correct
+ 3223 wrong
+ 0 no prediction
